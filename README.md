@@ -1,2 +1,0 @@
-# callspam
-php call.php
